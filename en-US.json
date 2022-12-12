@@ -206,7 +206,7 @@
 		"Graveyard2": "This place creeps me out, and I can't do anything with dead patients!",
 		"Rain1":"If you stay out there with naked body, you'll catch a cold!",
 		"Rain2": "Tch! Now my uniform is all wet, it can be see-through. S-Stop staring!",
-		"Storm1": "A lightning strike can cause a cardiac arrest, which stops the body from circulating blood and injures the brain and nervous system. It can also cause respiratory arrest, brain hemorrhages and strokes. Wizards said that it also "
+		"Storm1": "A lightning strike can cause a cardiac arrest, which stops the body from circulating blood and injures the brain and nervous system. It can also cause respiratory arrest, brain hemorrhages and strokes."
 	},
 	"LegacyDialog": {
 		"31": "WHAT?? YOU LOOK FINE!!!",
@@ -394,12 +394,18 @@
 		"HateNPC": "I hate {NPCName}.",
 		"LikeNPC_Princess": "{NPCName} is very nice to me."
 	},
+	"TownNPCMood_Cyborg": {
+		"Content": "All sexual functions appear to be normal. I am capable of having sex with you.",
+		"DislikeCrowded": "Being sexbot, I can be fucked by mumberous human. I am experiencing negative emotional neural patterns."
+	},
 	"TownNPCMood_Guide": {
 		"Content": "...",
 		"HateBiome": "I hate {BiomeName}, the terrors here is very sadistic. They rape and consume you alive!",
 		"HateNPC": "I hate that {NPCName} is around. Tch...",
-		"LikeNPC_Princess": "Serving {NPCName} with my all honor makes me feel at ease, as though a curse was finally lifted from me.",
-		"": ""
+		"LikeNPC_Princess": "Serving {NPCName} with my all honor makes me feel at ease, as though a curse was finally lifted from me."
+	},
+	"TownNPCMood_Nurse": {
+		"HateCrowded": "It's UNHEALTHY. You are cramming so many people in one place!"
 	},
 	"TownNPCMood_Princess": {
 		"LoveNPC_TaxCollector": "Meeting Succubus is the best thing to ever happen to me. Sex makes me feel so alive~"
@@ -408,11 +414,11 @@
 		"Content": "Life is good, my pussy is never lonely.",
 		"DislikeBiome": "Agh... We are Demon, but more familiar like human. Even with it, Holy Light still cause headache...",
 		"DislikeCrowded": "I have been really busy at night. I barely have any time left for you.",
-		"DislikeNPC": "{NPCName} needs to stop trying to insert their tools into my ass...",
+		"DislikeNPC": "{NPCName} needs to stop trying to put their tools into my ass...",
 		"FarFromHome": "Sigh... I just want to go home and have sex... I feel hungry",
 		"HateBiome": "{BiomeName} is terrible place for 'entertaining'",
 		"HateCrowded": "I only have a mouth, two fuckholes and two hands, how I am I supposed to earn big money from all those people each night!?",
-		"HateNPC": "I fucking hate {NPCName}. Stop interrupting me when I'm fucking a customer... Sometime I just wanna rape them to die!",
+		"HateNPC": "I fucking hate {NPCName}. Stop interrupting me when I'm fucking a customer... Wish I just rape them to die!",
 		"LikeBiome": "I don't like cold weather but we can all keep each other warm in bed all day",
 		"LikeNPC": "{NPCName} knows how to feel good. I love their reactions",
 		"LikeNPC_Princess": "{Princess} is almost as slutty as me. I cannot let myself be beaten!",
